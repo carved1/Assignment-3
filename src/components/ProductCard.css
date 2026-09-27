@@ -19,3 +19,18 @@
   font-weight: bold;
   margin: 0 0 8px;
 }
+
+/* Add to Cart button styles generated with generative AI */
+.product-card .add-to-cart {
+  margin-top: 12px;
+  padding: 8px 14px;
+  border: none;
+  border-radius: 4px;
+  background-color: #333;
+  color: white;
+  cursor: pointer;
+}
+
+.product-card .add-to-cart:hover {
+  background-color: #555;
+}
